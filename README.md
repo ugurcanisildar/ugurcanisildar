@@ -1,7 +1,7 @@
 Hi 👋 My name is Ugur Can
 =========================
 
-Mobile Developer
+Flutter Developer
 ----------------
 
 * 🌍  I'm based in istanbul
