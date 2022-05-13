@@ -5,7 +5,7 @@ Mobile Developer
 ----------------
 
 * 🌍  I'm based in istanbul
-* 🖥️  See my portfolio at [My Portfolio](http://apps.apple.com/tr/app/amerikan-k%C3%BClt%C3%BCr/id1603058909?l=tr)
+* 🖥️  See my portfolio at [My Portfolio](https://play.google.com/store/apps/dev?id=5517639161234088483&gl=TR)
 * ✉️  You can contact me at [ugurcanisildar@gmail.com](mailto:ugurcanisildar@gmail.com)
 * 🚀  I'm currently working on [Markalar Birliği](http://www.markalarbirligi.com.tr/)
 * 🧠  I'm learning Swift UI
